@@ -54,7 +54,6 @@
             </form>
 
             <div class="footer">
-                © 2026 - Todos los derechos reservados
             </div>
 
         </div>
