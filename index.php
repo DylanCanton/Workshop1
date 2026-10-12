@@ -18,7 +18,7 @@
 
             <div class="login-header">
                 <h2>Bienvenido</h2>
-                <p>Inicia sesión para continuar</p>
+                <p>Inicia sesión para Continuar</p>
             </div>
 
             <form action="autentificar.php" method="POST">
